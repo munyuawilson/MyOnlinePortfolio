@@ -16,22 +16,22 @@ const socialLinks = [
 	{
 		id: 2,
 		icon: <FiGithub />,
-		url: 'https://github.com/hasanyalsiz',
+		url: 'https://github.com/munyuawilson',
 	},
 	{
 		id: 3,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/Hasanyalsiz',
+		url: 'https://twitter.com/',
 	},
 	{
 		id: 4,
 		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/hasanyalsiz/',
+		url: 'https://www.linkedin.com/in/wilson-munyua-4a0417204/',
 	},
 	{
 		id: 5,
 		icon: <FiInstagram />,
-		url: 'https://www.instagram.com/hasanyalsiz/',
+		url: 'https://www.instagram.com/',
 	},
 ];
 
