@@ -53,10 +53,10 @@ export const projectsData = [
 	},
 	{
 		id: 6,
-		title: 'Burger Project',
-		category: 'Web Application',
+		title: 'Socket Chat Application',
+		category: 'CLI Application',
 		img: WebImage1,
-		repoUrl:'https://github.com/hasanyalsiz/ReactBurger',
+		repoUrl:'https://github.com/munyuawilson/Socket-Chat-App',
 	},
 	{
 		id: 7,
