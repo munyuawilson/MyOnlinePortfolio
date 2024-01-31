@@ -1,9 +1,9 @@
 // Import images
-import WebImage1 from '../images/burger.png';
+import WebImage1 from '../images/cli.png';
 import WebImage2 from '../images/plagiarism.PNG';
 import WebImage3 from '../images/unmask.png';
 import WebImage4 from '../images/datascience.png';
-import WebImage5 from '../images/map.png';
+import WebImage5 from '../images/santa.png';
 import MobileImage1 from '../images/onlinereg.png';
 import MobileImage2 from '../images/barcode.png';
 import UIImage1 from '../images/libman.png';
