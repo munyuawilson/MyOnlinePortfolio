@@ -1,13 +1,13 @@
 // Import images
 import WebImage1 from '../images/burger.png';
-import WebImage2 from '../images/barcode.png';
-import WebImage3 from '../images/pokemon.png';
-import WebImage4 from '../images/RecipeProject.png';
+import WebImage2 from '../images/plagiarism.PNG';
+import WebImage3 from '../images/unmask.png';
+import WebImage4 from '../images/datascience.png';
 import WebImage5 from '../images/map.png';
-import MobileImage1 from '../images/space.png';
+import MobileImage1 from '../images/onlinereg.png';
 import MobileImage2 from '../images/barcode.png';
-import UIImage1 from '../images/gmail.png';
-import UIImage2 from '../images/spotify.png';
+import UIImage1 from '../images/libman.png';
+import UIImage2 from '../images/webscraping.png';
 
 export const projectsData = [
 	{
