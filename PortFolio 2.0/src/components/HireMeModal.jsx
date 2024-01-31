@@ -7,8 +7,8 @@ import React, { useRef } from "react";
 const selectOptions = [
   "Web Application",
   "Mobile Application",
-  "UI/UX Design",
-  "Branding",
+  "Desktop Application",
+  "Data Science",
 ];
 
 const HireMeModal = ({ onClose, onRequest }) => {
